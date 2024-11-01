@@ -8,7 +8,7 @@ Technologies Used
 HTML
 CSS
 Getting Started
-To view the website, clone the repository and open MyPortfolio.html in your browser:
+To view the website, clone the repository and open index.html in your browser:
 
 bash
 Copy code
